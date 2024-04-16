@@ -243,6 +243,14 @@ a:hover {
   color: #cca000;
 }
 
+#buybutton:hover{
+  color:#000;
+}
+
+#buybutton {
+  margin-top: 2rem;
+}
+
 a:not([href]):not([class]), a:not([href]):not([class]):hover {
   color: inherit;
   text-decoration: none;
