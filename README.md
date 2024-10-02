@@ -1,2 +1,5 @@
 # checkedblock
-Checked Block - Web3 Agency
+Checked Block offers Web3 Services:
+- Academy
+- Consultancy
+- Security
